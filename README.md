@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in Discord and for your custom project this is my fiver account link 'https://www.fiverr.com/m_a_i_00/do-your-python-programming-and-python-script'
+- 📫 You can reach me in Discord and for your custom project this is my fiver account link 'https://www.fiverr.com/m_a_i_00/do-your-python-programming-and-python-script'
 
 <!---
 muhammad-hassan1112/muhammad-hassan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
